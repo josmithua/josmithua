@@ -11,8 +11,7 @@
 - A thermostat using Azure Sphere, written in C
 - Multiple REST APIs using Azure Functions, written in C#
 
-💬&nbsp;&nbsp;&nbsp;Ask me about any of these things!  
-📫&nbsp;&nbsp;&nbsp;@josmithua on all the things
+💬&nbsp;&nbsp;&nbsp;Ask me about any of these things!
 <!--
 **josmithua/josmithua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
