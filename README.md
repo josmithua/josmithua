@@ -5,7 +5,7 @@
 👨‍💻&nbsp;&nbsp;&nbsp;Software developer  
 ♿️&nbsp;&nbsp;&nbsp;Paraplegic
 
-🔭&nbsp;&nbsp;&nbsp;I'm currently working on:
+️🛠&nbsp;&nbsp;&nbsp;I'm currently working on:
 - My first open source library called [react-native-msal](https://github.com/stashenergy/react-native-msal) (PRs welcome!)
 - An app built using React Native, written in Typescript
 - A thermostat using Azure Sphere, written in C
