@@ -1,5 +1,18 @@
-### Hi there 👋
+### Hi there 👋. My name is Joshua. Here's a summary of me:
 
+✝️&nbsp;&nbsp;&nbsp;Christian  
+🚁&nbsp;&nbsp;&nbsp;Eventual gyroplane pilot  
+👨‍💻&nbsp;&nbsp;&nbsp;Software developer  
+♿️&nbsp;&nbsp;&nbsp;Paraplegic
+
+🔭&nbsp;&nbsp;&nbsp;I'm currently working on:
+- My first open source library called [react-native-msal](https://github.com/stashenergy/react-native-msal) (PRs welcome!)
+- An app built using React Native, written in Typescript
+- A thermostat using Azure Sphere, written in C
+- Multiple REST APIs using Azure Functions, written in C#
+
+💬&nbsp;&nbsp;&nbsp;Ask me about any of these things!  
+📫&nbsp;&nbsp;&nbsp;@josmithua on all the things
 <!--
 **josmithua/josmithua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
