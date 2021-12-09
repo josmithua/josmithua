@@ -1,7 +1,7 @@
 ### Hi there 👋. My name is Joshua. Here's a summary of me:
 
 ✝️&nbsp;&nbsp;&nbsp;Christian  
-🚁&nbsp;&nbsp;&nbsp;Eventual gyroplane pilot  
+🚁&nbsp;&nbsp;&nbsp;Aspiring pilot  
 👨‍💻&nbsp;&nbsp;&nbsp;Software developer  
 ♿️&nbsp;&nbsp;&nbsp;Paraplegic
 
